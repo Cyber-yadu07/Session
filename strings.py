@@ -5,7 +5,7 @@ Use /cancel to Cancel Process Anytime
 
 Now, Send API ID
     👇Below👇"""
-GIVE_HASH = """Now, Send API HASH. If you don't have then use this(`b8a5eed9fc243d92487b56711c69342d`) API HASH
+GIVE_HASH = """Now, Send API HASH. If you don't have then use this ( `b8a5eed9fc243d92487b56711c69342d`) API HASH.
     👇Below👇"""
 PHONE = """Now, Your Phone Number with Country code like +1xxxxxxxxxx
     👇Below👇"""
@@ -33,18 +33,18 @@ Send Password Again"""
 PASS_WRONG = """❌**INCORRECT PASSWORD**❌
 
 Use /start To Start Process Again."""
-SESSION = """**This Is Your Telethon Userbot StringSession**
+SESSION = """**This Is Your Telethon StringSession**
 
 
 `{}`
 
-__Regards__"""
-PYSESSION = """**This Is Your Pyrogram Vcbot StringSession**
+__Regards - @TheCodeTech__"""
+PYSESSION = """**This Is Your Pyrogram StringSession**
 
 
 `{}`
 
-__Regards__"""
+__Regards - @TheCodeTech__"""
 FLOOD = "Floodwait 😅😅, Try again After `{}` seconds"
 WRONG = """Something Went Wrong
 Try again later😅."""
