@@ -39,10 +39,10 @@ async def begin(e):
     if e.fwd_from:
         return
     await e.reply(
-        "Choose Options",
+        "This is end to end encrypted Session Generator Bot. Choose Options Below",
         buttons=[
-            [Button.inline("USERBOT-TELETHON", data="tele")],
-            [Button.inline("VCBOT-PYROGRAM", data="pyro")],
+            [Button.inline("TELETHON SESSION", data="tele")],
+            [Button.inline("PYROGRAM SESSION", data="pyro")],
         ],
     )
 
