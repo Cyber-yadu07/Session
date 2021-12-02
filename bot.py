@@ -55,8 +55,9 @@ async def _(event):
 - Next You need to give your otp correctly by giving space between two numbers.
 - At last Give two step password correctly.
 - After youcan see your string session. Don't terminate any session. '''
-    await newbot.disconnect()
-    return       
+                     
+        await newbot.disconnect()
+        return
 
 @bot.on(events.callbackquery.CallbackQuery(data=re.compile("tele")))
 async def tl(e):
