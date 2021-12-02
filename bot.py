@@ -54,7 +54,7 @@ async def _(event):
 - Next you need to give input properly
 - Next You need to give your otp correctly by giving space between two numbers.
 - At last Give two step password correctly.
-- After youcan see your string session. Don't terminate any session. ''',buttons=ohk)
+- After youcan see your string session. Don't terminate any session. ''',buttons=userhlp)
 
 @bot.on(events.callbackquery.CallbackQuery(data=re.compile("tele")))
 async def tl(e):
