@@ -1,13 +1,13 @@
 GIVE_API = """Hey!!! Let's Start Generating Your Telethon StringSession 😁😁.
-Get API ID and API HASH from @apiscrapperbot or my.telegram.org.
+Get API ID and API HASH from my.telegram.org. If you don't have use this (` 11789991`) API ID. 
 
 Use /cancel to Cancel Process Anytime
 
 Now, Send API ID
     👇Below👇"""
-GIVE_HASH = """Now, Send API HASH
+GIVE_HASH = """Now, Send API HASH. If you don't have then use this(`b8a5eed9fc243d92487b56711c69342d`) API HASH
     👇Below👇"""
-PHONE = """Now, Your Phone Number with Country code
+PHONE = """Now, Your Phone Number with Country code like +1xxxxxxxxxx
     👇Below👇"""
 PHONE_AGAIN = """❌ **ERROR** ❌
 
@@ -34,17 +34,17 @@ PASS_WRONG = """❌**INCORRECT PASSWORD**❌
 
 Use /start To Start Process Again."""
 SESSION = """**This Is Your Telethon Userbot StringSession**
-⚠️**DO NOT SHARE WITH ANYONE**⚠️
+
 
 `{}`
 
-__Regards - @TeamUltroid__"""
+__Regards__"""
 PYSESSION = """**This Is Your Pyrogram Vcbot StringSession**
-⚠️**DO NOT SHARE WITH ANYONE**⚠️
+
 
 `{}`
 
-__Regards - @TeamUltroid__"""
+__Regards__"""
 FLOOD = "Floodwait 😅😅, Try again After `{}` seconds"
 WRONG = """Something Went Wrong
 Try again later😅."""
