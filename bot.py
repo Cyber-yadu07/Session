@@ -43,18 +43,9 @@ async def begin(e):
         buttons=[
             [Button.inline("Telethon Session", data="tele")],
             [Button.inline("Pyrogram Session", data="pyro")],
-            [Button.inline("Getting Help", data="userhlp")],
         ],
     )
 
-@bot.on(events.callbackquery.CallbackQuery(data=re.compile(b"userhlp")))
-async def _(event):  
-    await event.edit('''** Getting Help **
-- First You Need to Create Api Id and Api Hash From My.telegram.org.
-- Next you need to give input properly
-- Next You need to give your otp correctly by giving space between two numbers.
-- At last Give two step password correctly.
-- After youcan see your string session. Don't terminate any session. ''',buttons=return)
 
 @bot.on(events.callbackquery.CallbackQuery(data=re.compile("tele")))
 async def tl(e):
