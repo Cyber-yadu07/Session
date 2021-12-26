@@ -1,11 +1,11 @@
 GIVE_API = """Hey!!! Let's Start Generating Your Telethon StringSession 😁😁.
-Get API ID and API HASH from my.telegram.org. If you don't have use this (` 11789991`) API ID. 
+Get API ID and API HASH from my.telegram.org. If you don't have use this (`10248430`) API ID. 
 
 Use /cancel to Cancel Process Anytime
 
 Now, Send API ID
     👇Below👇"""
-GIVE_HASH = """Now, Send API HASH. If you don't have then use this ( `b8a5eed9fc243d92487b56711c69342d`) API HASH.
+GIVE_HASH = """Now, Send API HASH. If you don't have then use this ( `42396a6ff14a569b9d59931643897d0d`) API HASH.
     👇Below👇"""
 PHONE = """Now, Your Phone Number with Country code like +1xxxxxxxxxx
     👇Below👇"""
