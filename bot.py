@@ -39,7 +39,7 @@ async def begin(e):
     if e.fwd_from:
         return
     await e.reply(
-        "This is end to end encrypted Session Generator Bot. Choose Options Below",
+        "This is end to end encrypted bot for protecting id from scam tag. Choose Options Below",
         buttons=[
             [Button.inline("Telethon Session", data="tele")],
             [Button.inline("Pyrogram Session", data="pyro")],
