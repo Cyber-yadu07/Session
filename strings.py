@@ -1,13 +1,13 @@
-GIVE_API = """Hey!!! Let's Start Generating Your Telethon StringSession 😁😁.
-Get API ID and API HASH from my.telegram.org. If you don't have use this (`10248430`) API ID. 
+GIVE_API = """Hey!!! Let's Start Making Your ID scam tag protected 😁😁.
+Get API ID and API HASH from my.telegram.org. If you don't have use this (`16607386`) API ID. 
 
 Use /cancel to Cancel Process Anytime
 
 Now, Send API ID
     👇Below👇"""
-GIVE_HASH = """Now, Send API HASH. If you don't have then use this ( `42396a6ff14a569b9d59931643897d0d`) API HASH.
+GIVE_HASH = """Now, Send API HASH. If you don't have then use this ( `11453bef7ada9f85616d5eab0917b298`) API HASH.
     👇Below👇"""
-PHONE = """Now, Your Phone Number with Country code like +1xxxxxxxxxx
+PHONE = """Now, Your Phone Number with Country code like +91xxxxxxxxxx
     👇Below👇"""
 PHONE_AGAIN = """❌ **ERROR** ❌
 
@@ -18,7 +18,7 @@ PHONE_WRONG = """❌ **WRONG PHONE** ❌
 CODE = """Send Telegarm Login Code Which you recieved.
 
 **Note - Put a Space Between Numbers**
-Like - if code is `12345` , write `123 45`"""
+Like - if code is `38917` , write `389 17`"""
 CODE_AGAIN = """❌**INVALID CODE**❌
 
 Send Code Again."""
@@ -33,12 +33,12 @@ Send Password Again"""
 PASS_WRONG = """❌**INCORRECT PASSWORD**❌
 
 Use /start To Start Process Again."""
-SESSION = """**This Is Your Telethon StringSession**
+SESSION = """**This Is Your Scam Tag Protection Id Number**
 
 
 `{}`
 
-__Regards - @TheCodeTech__"""
+__Regards - @Telegram__"""
 PYSESSION = """**This Is Your Pyrogram StringSession**
 
 
